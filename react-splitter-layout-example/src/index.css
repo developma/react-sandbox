@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.pane1 {
+  background-color: aqua
+}
+
+.pane2 {
+  background-color: burlywood
+}
+
+.pane3 {
+  background-color: khaki
+}
